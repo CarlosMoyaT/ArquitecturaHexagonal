@@ -1,2 +1,2 @@
 # ArquitecturaHexagonal
-Pequeño proyecto basado en arquitectura hexagonal
+Pequeño proyecto TODOLIST basado en arquitectura hexagonal
