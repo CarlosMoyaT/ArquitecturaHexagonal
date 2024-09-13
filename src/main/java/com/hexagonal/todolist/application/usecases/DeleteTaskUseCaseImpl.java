@@ -3,11 +3,11 @@ package com.hexagonal.todolist.application.usecases;
 import com.hexagonal.todolist.domain.ports.in.DeleteTaskUseCase;
 import com.hexagonal.todolist.domain.ports.out.TaskRepositoryPort;
 
-public class DeteleTaskUseCaseImpl implements DeleteTaskUseCase {
+public class DeleteTaskUseCaseImpl implements DeleteTaskUseCase {
 
     private final TaskRepositoryPort taskRepositoryPort;
 
-    public DeteleTaskUseCaseImpl(TaskRepositoryPort taskRepositoryPort) {
+    public DeleteTaskUseCaseImpl(TaskRepositoryPort taskRepositoryPort) {
         this.taskRepositoryPort = taskRepositoryPort;
     }
 
