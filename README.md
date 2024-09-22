@@ -15,9 +15,11 @@ Seguiré profundizando en varios patrones de arquitectura para aprender más en 
 
 Para simular las peticiones desde adapters utilizo los siguientes enlaces , https://jsonplaceholder.typicode.com/todos/ y https://jsonplaceholder.typicode.com/users/
 
-Para continuar pretendo refactorizar lo que pueda para hacer más sencillo el código y legible, también quiero añadir algunas funcionalidades extra más adelante.
+Para continuar pretendo refactorizar lo que pueda para hacer más sencillo el código y legible, también quiero añadir algunas funcionalidades extra más adelante y utilizar websockets para practicar también.
 
 
 IMPLEMENTAR EN UN FUTURO
 
 -Interfaz gráfica de usuario
+-Registro y login de usuarios
+-Notificaciones en tiempo real
